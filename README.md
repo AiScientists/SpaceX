@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/icon.png" width="200">
+</p>
+<h1 align="center">SpaceX GO!</h1>
 <h3 align="center">Simple yet powerful, open-source SpaceX launch tracker</h3>
 
 <p align="center">
@@ -80,5 +84,3 @@ If you want to take the time to make this project better, please read the [contr
 ## License
 
 This project is licensed under the GNU GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Make it Better ...
