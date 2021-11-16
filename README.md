@@ -1,5 +1,5 @@
-<h1 align="center">SpaceX GO!</h1>
-<h3 align="center">Simple yet powerful, open-source SpaceX launch tracker</h3>
+<h1 align="center">SpaceX GO</h1>
+<h3 align="center">Open source SpaceX launch tracker</h3>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
@@ -48,7 +48,7 @@ This project has been built using the [Flutter](https://flutter.io/) framework, 
 First, clone the repository with the 'clone' command, or just download the zip.
 
 ```
-$ git clone git@github.com:jesusrp98/spacex-go.git
+$ git clone git@github.com:AiScientists/SpaceX.git
 ```
 
 Then, download either Android Studio or Visual Studio Code, with their respective [Flutter editor plugins](https://flutter.io/get-started/editor/). For more information about Flutter installation procedure, check the [official install guide](https://flutter.io/get-started/install/).
@@ -63,7 +63,7 @@ There you go, you can now open & edit the project. Enjoy!
 - [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building apps on every type of Android device.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
-## Authors
+## Original Authors
 
 - **Jesús Rodríguez** - lead developer: [GitHub](https://github.com/jesusrp98), [Twitter](https://twitter.com/jesusrp98) & [Reddit](https://www.reddit.com/user/jesusrp98).
 - **Matias de Andrea** - UI/UX designer: [GitHub](https://github.com/deandreamatias), [Twitter](https://twitter.com/deandreamatias) & [Behance](https://www.behance.net/deandreamatias).
