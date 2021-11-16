@@ -23,7 +23,7 @@
 
 The purpose of this project is to develop the ultimate SpaceX experience in a variety of platforms. A single experience, from a single codebase.
 
-From the start, SpaceX GO! has been developed to be light-weight, fast and easy to use. It takes all the data from the open-source r/SpaceX REST API, which can be found [here](https://github.com/r-spacex/SpaceX-API).
+From the start, SpaceX GO has been developed to be light-weight, fast and easy to use. It takes all the data from the open-source r/SpaceX REST API, which can be found [here](https://github.com/r-spacex/SpaceX-API).
 
 This project has been built using the [Flutter](https://flutter.io/) framework, which allows to build an app for mobile, desktop & web, from a single codebase.
 
@@ -82,4 +82,4 @@ If you want to take the time to make this project better, please read the [contr
 
 This project is licensed under the GNU GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Make it Better
+> Make it Better, try flutter
